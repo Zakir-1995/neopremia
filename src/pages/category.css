@@ -1,0 +1,26 @@
+.category-filter {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.category-btn {
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.category-btn.active {
+  background-color: #fabe00;
+  color: white;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product-card img {
+  max-width: 100%;
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "category": "cooler",
+    "title": "Can Coolers",
+    "desc": "Our top-quality neoprene can coolers with sharkskin non slip base and fully glued 5mm panels. Standard sizes to fit either 330ml pop can or 440ml beer can. However, we can also make to any size required. Screen printed or sublimated with your logo - no colour limit, all over printing, neon inks, special coatings including plush, turf, lycra.",
+    "price": 23,
+    "imgUrl": "/product/p1.jpg"
+  },
+  {
+    "id": "2",
+    "category": "cooler",
+    "title": "Can sleeves",
+    "desc": "Base-less, velcro fastening or flat-pack design, this is a simplified product reflected in a keener price than standard can coolers. An ideal, low cost drinks brand promotional item suitable for mailing or on-pack activities. Huge range of neoprene colours and finishes possible.",
+    "price": 14,
+    "imgUrl": "/product/p2.jpg"
+  },
+  {
+    "id": "3",
+    "category": "cooler",
+    "title": "Bottle Coolers",
+    "desc": "Our shaped bottle cooler with access zip. The standard product fits a 33cl beer, pop or alcopop bottles but we do ask our clients for a sample bottle or full dimensions in order to make a perfect fit as bottle shapes and designs may vary. We tailor for any size - All print options possible. Contact us for a very competitive quotation",
+    "price": 19,
+    "imgUrl": "/product/p3.jpg"
+  },
+  {
+    "id": "4",
+    "category": "cooler",
+    "title": "Bottle Sleeves",
+    "desc": "Simple, flat pack sleeved shaped bottle cooler. Can be printed both sides or with all-over dysub print. Excellent value for your promotional investment and, as with all of our products, print quality is of the highest standard.",
+    "price": 17,
+    "imgUrl": "/product/p4.jpg"
+  },
+  {
+    "id": "5",
+    "category": "cooler",
+    "title": "Wine Coolers",
+    "desc": "Larger size prestige cooler for wine bottles and champagne bottles. All bottle shapes differ, we will need exact dimensions for your order to deliver a perfect fit. Numerous styles available. Usually made with straight or curved zipper access and finished in lycra binding. Note that we also make lower-cost sleeves for wine bottle sizes.",
+    "price": 21,
+    "imgUrl": "/product/p5.jpg"
+  },
+  {
+    "id": "6",
+    "category": "cooler",
+    "title": "Baby Bottle Coolers",
+    "desc": "This is where neoprene material really excels! The material not only supresses temperature increases but as in wetsuits, allows for the retention of heat. So here we offer our heat retaining baby-bottle insulators. These have become very popular in the USA and are only just becoming recognised here in the UK for their convenience and function. Flexibility of neoprene allows for a multi-size fit.",
+    "price": 21,
+    "imgUrl": "/product/p6.jpg"
+  },
+  {
+    "id": "8",
+    "category": "cooler",
+    "title": "Bottle Shirts",
+    "desc": "Simple, economic, flat-pack sleeve shaped bottle cooler. Ideal for sports team merchandising or team sponsors. We have a number of different designs available. Products can be tailored to fit water bottle, beer bottle or soda bottle.",
+    "price": 23,
+    "imgUrl": "/product/p7.jpg"
+  },
+  {
+    "id": "9",
+    "category": "cooler",
+    "title": "Cool Tubes",
+    "desc": "Cool portable storage fo canned drink products. Different sizes available. A different and innovative promotional product at a great price!",
+    "price": 16,
+    "imgUrl": "/product/p8.jpg"
+  },
+  {
+    "id": "10",
+    "category": "cooler",
+    "title": "6 pack coolers",
+    "desc": "Cool portable storage for any application. Canned and bottled drink products, food, picnicsetc. Can and Bottle totes can be made for 2 / 4/ 6 or 8 containers.",
+    "price": 27,
+    "imgUrl": "/product/p9.jpg"
+  },
+  {
+    "id": "11",
+    "category": "cover",
+    "title": "CD Cases",
+    "desc": "12 or 24 CD/DVD neoprene pouch. Safe and simple portable storage for all your media / software discs. Zip closure . Print by screen print or di-sublimation for photo-quality finish. Neopremia are licencees for Disney and many other major brands.",
+    "price": 11,
+    "imgUrl": "/product/p10.jpg"
+  },
+  {
+    "id": "12",
+    "category": "bag",
+    "title": "General Bags",
+    "desc": "We can make you protective travel and storage bags for a vast range of commercial products. This list covers product areas we have made bags for in the past:Medical devices, Sunglasses, PDAs, Cameras, Binoculars, BackPacks, Bumbags, and many more. Please contact us with your brief for further information",
+    "price": 9,
+    "imgUrl": "/product/p11.jpg"
+  },
+  {
+    "id": "13",
+    "category": "bag",
+    "title": "Medical Pouches",
+    "desc": "We make a range of bags, pouches and cases for medical products. We invite customers to submit their designs and we will be happy to quote you. 500 pieces is a guideline MOQ. Please ask us about this.",
+    "price": 9,
+    "imgUrl": "/product/p12.jpg"
+  },
+  {
+    "id": "14",
+    "category": "bag",
+    "title": "Laptop Case",
+    "desc": "Specially fabricated protective neoprene sleeves and carrycases for your valuable laptop or notebook computer, your PDA or your media player. Made to order to your exact design spec. We also offer stock product here allowing you to buy one-offs from us.",
+    "price": 39,
+    "imgUrl": "/product/p13.jpg"
+  },
+  {
+    "id": "15",
+    "category": "bag",
+    "title": "Document Wallet",
+    "desc": "Unusual waterproof and protective sleeve for documents made in a variety of neoprene finishes including smoothskin, sharkskin, embossed and standard double polyester-lined neoprene..",
+    "price": 22,
+    "imgUrl": "/product/p14.jpg"
+  },
+  {
+    "id": "16",
+    "category": "cover",
+    "title": "Sunglass Retainer",
+    "desc": "Different styles are available both in adult and kids sizes. We have the ability to make a huge range of different product in our unique material. Sunglasses retainers are a cheap and cheerrful promotional item for anyone in the marine trade and also ideal for ABC1/2 targeted youth promotions.",
+    "price": 7,
+    "imgUrl": "/product/p15.jpg"
+  },
+  {
+    "id": "17",
+    "category": "cover",
+    "title": "Golf Club Covers",
+    "desc": "Quality built neoprene protective sleeves for drivers, putters and irons.",
+    "price": 5,
+    "imgUrl": "/product/p16.jpg"
+  },
+  {
+    "id": "18",
+    "category": "cover",
+    "title": "Headbands",
+    "desc": "Specially fabricated neoprene headbands and wristbands for use in water, on the snow or for general winter warmth. Ideal for people wishing to avoid getting water in the ears. Forehead branding - there really is nothing more 'in-yer-face'!",
+    "price": 3,
+    "imgUrl": "/product/p17.jpg"
+  },
+  {
+    "id": "19",
+    "category": "bag",
+    "title": "Phone Totes",
+    "desc": "Belt clip holder for your mobile phone with security closure. Safe and convenient storage for your phone. Specific fits or generic options. Easily branded and many different styles are available!",
+    "price": 8,
+    "imgUrl": "/product/p18.jpg"
+  },
+  {
+    "id": "20",
+    "category": "other",
+    "title": "Sheet Neoprene",
+    "desc": "From UK Stockholding, we offer polyester laminated neoprene sheets in both 2.5mm and 5.0mm thicknesses. The sheet size is 1200 x 2200mm. The majority of stock is black/ black material but we also have some black/blue, black/red and black/yellow. Our pricing is very competitive. If you are looking for a company to help you make a new product sample, you've found us !! Contact us for further info.",
+    "price": 21,
+    "imgUrl": "/product/p19.jpg"
+  },
+  {
+    "id": "21",
+    "category": "other",
+    "title": "Car Seat Belt Pads",
+    "desc": "Here's a great new promotional product from Neopremia. Automotive accessory offering comfort and support for car drivers and passangers. Easy to position and made with a handdy mini-pocket for your bluetooth earpiece. We will also be adding a fixture for a sleep pad in the near future. Neoprene construction with velcro fastening.",
+    "price": 13,
+    "imgUrl": "/product/p20.jpg"
+  },
+  {
+    "id": "22",
+    "category": "cover",
+    "title": "Ipad/Tablet Pouches",
+    "desc": "Super-thick neoprene pouces designed to carry and protect your technology. Our Ipad / tablet pouches feature an extra pocket internally so that card or plastic protection can be added to enhance the durability of the pouch.",
+    "price": 13,
+    "imgUrl": "/product/p21.jpg"
+  }
+]
